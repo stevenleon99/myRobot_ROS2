@@ -1,0 +1,7 @@
+[console_scripts]
+draw_circle = myrobot_controller.draw_circle:main
+get_pose = myrobot_controller.get_pose:main
+set_pencolor = myrobot_controller.set_pencolor:main
+test_node = myrobot_controller.first_node:main
+turtle_controller = myrobot_controller.turtle_controller:main
+
